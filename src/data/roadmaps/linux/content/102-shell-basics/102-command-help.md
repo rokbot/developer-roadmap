@@ -1,6 +1,6 @@
 # Command Help
 
-Command help in Linux is an essential feature that enables users to navigate through Linux shell commands with ease. This feature displays brief information on how to use these commands. For instance, typing 'man' before any command brings up the manual entry for that command which explains what the command does, its syntax and the available options. Another popular command is 'help' which is more suited for shell built-in functions, giving a brief description about each. These command line services are extremely beneficial for beginners trying to learn how to use the Linux shell, as well as seasoned users who may need to look up the specifics of seldom used commands. 
+Command help in Linux is an essential feature that enables users to navigate through Linux shell commands with ease. This feature displays brief information on how to use these commands. For instance, typing 'man' before any command brings up the manual entry for that command which explains what the command does, its syntax and the available options. Another popular command is 'help' which is more suited for shell built-in commands, giving a brief description about each. These command line services are extremely beneficial for beginners trying to learn how to use the Linux shell, as well as seasoned users who may need to look up the specifics of seldom used commands. 
 
 To view the manual entry for any command, use:
 
@@ -8,7 +8,7 @@ To view the manual entry for any command, use:
 man [command]
 ```
 
-For built-in shell functions, use:
+For [built-in shell commands](https://linuxhandbook.com/shell-builtin-commands/), use:
 
 ```bash
 help [command]
